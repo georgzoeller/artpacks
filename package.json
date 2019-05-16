@@ -16,7 +16,7 @@
   "dependencies": {
     "zip": "^1.2.0",
     "binary-xhr": "^0.0.2",
-    "mcmeta": "^0.1.0",
+    "mcmeta": "georgzoeller/mcmeta",
     "get-pixels": "^3.3.2",
     "save-pixels": "^2.3.4",
     "graycolorize": "^0.1.1"
